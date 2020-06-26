@@ -13,4 +13,7 @@ dengan cara membuat Pomodoro Timer
 
 Dibuat dengan QtDesigner dan Bahasa Pemrograman Python
 
+**PIP Install PyQt5 Designer :** [PyQt5Designer](https://pypi.org/project/PyQt5Designer/)
+**Download & Install Pycharm :** [PyCharm](https://www.jetbrains.com/pycharm/download/)
+
 **Author :** Mochammad Ihza Rizky Karim
