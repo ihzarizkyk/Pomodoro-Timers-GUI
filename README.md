@@ -2,8 +2,8 @@
 
 ![Pomodoro Timers](https://i.ibb.co/V2t36JC/pomodoro-timer4-1.png)
 
-Pomodoro Timers Gui adalah Aplikasi Desktop yang menerapkan teknik Pomodoro dan diimplementasikan 
-dengan cara membuat Pomodoro Timers
+Pomodoro Timer Gui adalah Aplikasi Desktop yang menerapkan teknik Pomodoro dan diimplementasikan 
+dengan cara membuat Pomodoro Timer
 
 **Cara Kerja Aplikasi Pomodoro Timers GUI :**
 
@@ -12,3 +12,5 @@ dengan cara membuat Pomodoro Timers
 - Ada 3 Tombol yaitu Play untuk menjalankan Timer, Replay untuk mengulang timer dari menit semula, dan Stop untuk menghentikan timer
 
 Dibuat dengan QtDesigner dan Bahasa Pemrograman Python
+
+**Author :** Mochammad Ihza Rizky Karim
